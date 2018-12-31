@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">Memory</string>
+    <string name="logo_image_description">Memory logo</string>
+    <string name="menu_title">Memory Game</string>
+    <string name="new_game_button">Nowa gra</string>
+    <string name="instruction_button">Instrukcja</string>
+    <string name="exit_button">Wyjście</string>
+    <string name="instruction_title">Instrukcja gry w Memory</string>
+    <string name="instruction_one">1. Rozpocznij grę wciskając przycisk <b>Nowa gra</b> na ekranie menu.</string>
+    <string name="instruction_two">2. Przed rozpoczęciem gry zostaniesz poproszony o wybór wielkości planszy do gry.</string>
+    <string name="instruction_three">3. Następnie wykonaj zdjęcie kilku przedmiotów.</string>
+    <string name="instruction_four">4. Twoje zdjęcia zostaną wczytane i ułożone w losowej kolejności na ekranie do dołu.
+    Twoim zadaniem jest odkrywać obrazki aby zebrać je w pary.</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_message">Wybierz ilość unikalnych obrazków</string>
+    <string name="dialog_title">Tworzenie planszy</string>
+    <string name="start_game">Rozpocznij grę</string>
+    <string name="winner_text">Gratulacje! Wygrałeś</string>
+    <string name="back_menu_button">Wróć to menu</string>
+    <array name="imagesNumber">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </array>
 </resources>

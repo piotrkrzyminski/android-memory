@@ -1,0 +1,6 @@
+
+asquid:UselessImportCheck"8Remove this unused import 'android.provider.MediaStore'.(ãçšş8ÂØÔùÿ,
+[squid:UselessImportCheck"3Remove this unused import 'android.content.Intent'.(³ğ‹G8ÂØÔùÿ,
+bsquid:UselessImportCheck"4Remove this unused import 'android.app.AlertDialog'.(ª½øşüÿÿÿÿ8ÂØÔùÿ,
+jsquid:UselessImportCheck"<Remove this unused import 'android.content.DialogInterface'.(Š­›¨şÿÿÿÿ8ÂØÔùÿ,
+\squid:UselessImportCheck"4Remove this unused import 'android.graphics.Bitmap'.(¾ì8ÂØÔùÿ,
